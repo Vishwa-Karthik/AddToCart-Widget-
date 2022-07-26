@@ -1,16 +1,18 @@
-# badges_flutter
+# Badges Widget
 
-A new Flutter project.
+ A simple use case on badges - Widget.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Add Dependency
+```bash
+flutter pub add badges
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Result
+<p>
+<img src="https://github.com/Vishwa-Karthik/AddToCart-Widget-/blob/master/image.png" width=200 height=400 />
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Reference
+pub.dev: [Badges](https://pub.dev/packages/badges)
